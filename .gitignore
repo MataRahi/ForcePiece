@@ -1,0 +1,5 @@
+# folders that won't be tracked by version control
+/ForcePiece/DerivedDataCache
+/ForcePiece/Intermediate
+/ForcePiece/Platforms
+/ForcePiece/Saved
