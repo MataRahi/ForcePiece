@@ -3,3 +3,11 @@
 /ForcePiece/Intermediate
 /ForcePiece/Platforms
 /ForcePiece/Saved
+
+# is this needed?
+/ForcePiece/Content/MetaHumans/hugh/
+
+# these are too big (github has individual file size limit of 100 mb)
+/ForcePiece/Content/MetaHumans/Common/Face/Face_Archetype.uasset
+/ForcePiece/Content/missiontominerva/Geometries/
+/ForcePiece/Content/missiontominerva/Maps/
